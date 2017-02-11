@@ -1,0 +1,13 @@
+baseurl: ""
+url: ""
+
+permalink: "/blog/:title/"
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+future: true
