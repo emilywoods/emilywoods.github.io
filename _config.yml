@@ -5,6 +5,7 @@ permalink: "/blog/:title/"
 
 # Build settings
 markdown: kramdown
+encoding: utf-8
 
 exclude:
   - Gemfile
