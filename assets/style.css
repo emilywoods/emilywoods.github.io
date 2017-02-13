@@ -9,6 +9,9 @@ html, body, div, h1, h2, h3, h4, h5, h6, p, a, img, small, b, i, ol, ul, li {
 
 
 /* navbar-inner */
+.brand b{
+  color: white;
+}
 .navbar-inner {
   width: 100%;
 }
@@ -212,5 +215,5 @@ footer {
 
 .contact-info li a {
   text-decoration: none;
-  color: #2d183d;
+  color: black;
 }
