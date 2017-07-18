@@ -165,6 +165,19 @@ p {
   text-align: justify;
 }
 
+.image-wrapper {
+    max-width:70%;
+    height:auto;
+    position: relative;
+    display:block;
+    margin:0 auto;
+}
+.image-wrapper img{
+    width:100% !important;
+    height:100% !important;
+    display:block;
+}
+
 /* image */
 img {
   border-radius: 1%;

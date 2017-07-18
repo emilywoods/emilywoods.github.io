@@ -12,3 +12,5 @@ exclude:
   - Gemfile.lock
 
 future: true
+
+highlighter: rouge
