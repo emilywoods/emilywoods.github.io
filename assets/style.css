@@ -123,16 +123,6 @@ p {
   text-align: left;
 }
 
-.project-preview h3 {
-  padding: 1px 30px;
-  line-height: 18px;
-  font-size: 15px;
-  color: #2d183d;
-  font-weight: 100;
-  text-align: left;
-}
-
-
 .project-preview p {
   padding: 1px 30px;
   line-height: 10px;
@@ -154,6 +144,13 @@ p {
   font-size: 30px;
   color: #2d183d;
 }
+
+.blog-post-title h3{
+  line-height: 20px;
+  font-size: 30px;
+  color: #2d183d;
+}
+
 
 .blog-post-content p {
   position:relative;
@@ -200,10 +197,10 @@ img {
 
 /* footer */
 footer {
-  position: fixed;
-  bottom:0;
+  position: relative;
+  top: -0.5px;
   padding-top: 9px;
-  padding-bottom: 25px;
+  padding-bottom: 35px;
   height: 35px;
   width: 100%;
   border-top: 1px solid #eeeeee;
