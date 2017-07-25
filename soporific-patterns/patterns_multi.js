@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(mouseX/10, mouseY/10);
   frames +=0.00005;
   var k = Math.sin(frames*radius);
   var rad_update = radius * Math.abs(k);
@@ -23,7 +23,7 @@ function draw() {
   }
   for (var i = 0; i < width; i += 100) {
     for (var j = 0; j < height; j += 100) {
-      draw_triangle(0 + i , 0  +j)
+      draw_triangle(i , j)
     }
   }
 }

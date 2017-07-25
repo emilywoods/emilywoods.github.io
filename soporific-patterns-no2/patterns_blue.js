@@ -21,7 +21,7 @@ function draw() {
   }
   for (var i = 0; i < width; i += 100) {
     for (var j = 0; j < height; j += 100) {
-      draw_triangle(0 + i , 0  +j)
+      draw_triangle(i , j)
     }
   }
 }
