@@ -30,9 +30,9 @@ html, body, div, h1, h2, h3, h4, h5, h6, p, a, img, small, b, i, ol, ul, li {
 
 /* body */
 body {
-  padding-top: 60px;
-  min-height: 400px;
-  margin-bottom: 100px;
+  padding-top: 50px;
+  min-height: 100px;
+  margin-bottom: 50px;
   clear: both;
 }
 
@@ -100,7 +100,7 @@ p {
 
 
 .list-of-posts p {
-  padding: 1px 30px 20px;
+  padding: 1px 30px 32px;
   line-height: 10px;
   font-size: 15px;
   color: #2d183d;
@@ -120,6 +120,15 @@ p {
   font-size: 20px;
   color: #2d183d;
   font-weight: 300;
+  text-align: left;
+}
+
+.project-preview h3 {
+  padding: 1px 30px;
+  line-height: 18px;
+  font-size: 15px;
+  color: #2d183d;
+  font-weight: 100;
   text-align: left;
 }
 
@@ -144,13 +153,6 @@ p {
   font-size: 30px;
   color: #2d183d;
 }
-
-.blog-post-title h3{
-  line-height: 20px;
-  font-size: 30px;
-  color: #2d183d;
-}
-
 
 .blog-post-content p {
   position:relative;
@@ -187,12 +189,12 @@ img {
 
 /* wrap */
 .wrap {
-  height: auto;
+  height: 100%;
   margin: 20 auto -100px;
   min-height: 100%;
-  padding: 0 0 100px;
+  padding: 0 0 40px;
   box-sizing: border-box;
-  overflow: auto;
+  overflow: scroll;
 }
 
 /* footer */
@@ -220,7 +222,6 @@ footer {
   padding-right: 30px;
   padding-left: 30px;
   list-style: none;
-
 }
 
 .contact-info li a {
