@@ -19,7 +19,7 @@ Here, we compile a Lisp-like language (Emerald) to Ruby, using a compiler writte
 ---
 
 #### Zoom out: What is a compiler?
-In a nutshell, a compiler is a program that converts code written in one programming language to another. Usually, this involves converting a higher level language (e.g. Java) to a lower level language (e.g. Java bytecode). However compilers can also convert one high level language to another high level language (such as this one).
+In a nutshell, a compiler is a program that converts code written in one programming language to another. Usually, this involves converting a higher level language (e.g. Java) to a lower level form (e.g. Java bytecode). However compilers can also convert one high level language to another high level language (such as this one).
 
 ---
 
