@@ -227,7 +227,7 @@ I'm very lucky. I've had the opportunity to work with two amazing developers in 
 
 [Louis](https://lpil.uk/) is essentially the Pied Piper of the coding world. I learn something new every time I speak to him. This wonderful person reviewed PRs, gave feedback, and shaped my vision, particularly when getting started with this project.
 
-Andrei is a compulsive-learner. His enthusiasm is quite infectious. He likes algorithms (a lot) and was rather excited when I asked him to review my approach to parsing s-expressions. He was very insightful when it came to producing a more preferable recursive one (which is used above).   
+[Andrei](https://github.com/andreishappy) is a compulsive-learner. His enthusiasm is quite infectious. He likes algorithms (a lot) and was rather excited when I asked him to review my approach to parsing s-expressions. He was very insightful when it came to producing a more preferable recursive one (which is used above).   
 
 ---
 
