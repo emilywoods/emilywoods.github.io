@@ -52,17 +52,18 @@ The compilation process can be broken down into five steps:
 
 <br><br>
 {% include image.html url="/assets/images/compiler_process.png" description="Compilation Overview" %}
-
 <br><br>
-1. Read source code from a file
+
+1\. Read source code from a file
 
   For this program, an input file is specified in the command line. Its contents are read as a string. This is an example input Emerald function:
   {% highlight common_lisp %}
   (defun add
       (x y)
       (+ x y)){% endhighlight %}
-<br><br>
-2. Lexical analysis and parsing
+
+  <br><br>
+2\. Lexical analysis and parsing
 
   The tree structure of the input function specified above can be viewed as:
 
@@ -156,9 +157,8 @@ The compilation process can be broken down into five steps:
         Emerald::List.new(
           Emerald::Atom.new(‘+’),
           Emerald::Atom.new(‘x’),
-          Emerald::Atom.new(‘y’) ) ) {% endhighlight %}
-<br><br>
-3. Convert the abstract syntax tree (AST) into Ruby code
+          Emerald::Atom.new(‘y’) ) ) {% endhighlight %} <br><br>
+3\. Convert the abstract syntax tree (AST) into Ruby code
 
    Generating Ruby code from the AST is carried out based on semantic analysis and Ruby syntax. Here, the AST is taken as the input source and is comprised of lists of strings, numbers, or atoms. Using this to generate Ruby code  is primarily influenced by the list structures and the contents of each atom:
   {% highlight ruby %}
@@ -174,12 +174,12 @@ The compilation process can be broken down into five steps:
     end {% endhighlight %}
 
   Identifying the meaning of each atom (lexical analysis), allows the construction of Ruby code from the source AST, based on known Ruby syntax.
-<br><br>
-4. Optimise
+  <br><br>
+4\. Optimise
 
   Optimisation steps in the compilation process can be implemented for the purpose of enhancing performance, such as to use less memory or to run the program faster. Optimisation has yet to be carried out for this project.
-<br><br>
-5. Write to a file and evaluate
+  <br><br>
+5\. Write to a file and evaluate
 
   When running the application, the input lisp:
   {% highlight ruby %}
