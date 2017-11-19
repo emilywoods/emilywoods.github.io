@@ -14,3 +14,14 @@ exclude:
 future: true
 
 highlighter: rouge
+
+social:
+  - icon: envelope-o
+    title: email
+    url: mailto:hello@emilywoods.me
+  - icon: github
+    title: github
+    url: https://github.com/emilywoods
+  - icon: linkedin
+    title: linkedin
+    url: https://uk.linkedin.com/in/emily-woods-38494083
