@@ -23,13 +23,11 @@ h6 {
 
 .alt-font {font-family: 'Quicksand', sans-serif !important;}
 
-
 iframe {
     display:block;
     border: none;
     width:100%;
     height:25%;
-    marginwidth:0
 }
 
 .intro-header {
@@ -44,7 +42,7 @@ iframe {
 }
 .intro-message {
     position: relative;
-    padding-top: 5%;
+    padding-top: 2%;
     color: #D3D3D3;
 }
 
@@ -66,6 +64,7 @@ iframe {
 
 .picture {
     border-radius: 50%;
+    padding-bottom: 20px;
 }
 
 @media(max-width:767px) {
@@ -102,13 +101,6 @@ iframe {
 .social-click {
     position: relative;
     pointer-events: all
-}
-
-.network-name {
-    text-transform: uppercase;
-    font-size: 13px;
-    font-weight: 400;
-    letter-spacing: 2px;
 }
 
 .content-section-b {
