@@ -16,12 +16,12 @@ future: true
 highlighter: rouge
 
 social:
-  - icon: envelope-o
+  - icon: assets/images/button/email.png
     title: email
     url: mailto:hello@emilywoods.me
-  - icon: github
+  - icon: assets/images/button/github.png
     title: github
     url: https://github.com/emilywoods
-  - icon: instagram
+  - icon: assets/images/button/insta.png
     title: instagram
     url: https://www.instagram.com/emilym.woods/
