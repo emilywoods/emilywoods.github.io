@@ -23,6 +23,7 @@ h6 {
 
 .alt-font {font-family: 'Quicksand', sans-serif !important;}
 
+
 iframe {
     display:block;
     border: none;
@@ -101,6 +102,13 @@ iframe {
 .social-click {
     position: relative;
     pointer-events: all
+}
+
+.network-name {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 2px;
 }
 
 .content-section-b {
