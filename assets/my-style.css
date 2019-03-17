@@ -134,3 +134,42 @@ h6 {
   width:100% !important;
   height:100% !important;
 }
+
+/* reading list */
+
+.reading-list h2 {
+  padding: 15px 30px;
+  text-align: left;
+  padding-bottom: 14px;
+  font-weight: bolder;
+}
+
+.reading-list ul {
+  text-align: left;
+  height:auto;
+  padding: 0px 80px;
+  color: #2d183d;
+}
+
+.reading-list ol {
+  text-align: left;
+  height:auto;
+  padding: 0px 80px;
+  color: #2d183d;
+}
+
+.reading-list li {
+  text-align: left;
+  height:auto;
+  max-width:90%;
+  font-size: 15px;
+  color: #2d183d;
+}
+
+.reading-list p {
+    height:auto;
+    max-width:90%;
+    padding: 0px 70px;
+    display: block;
+    font-size: 15px;
+}
