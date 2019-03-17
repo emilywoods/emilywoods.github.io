@@ -53,11 +53,14 @@ h6 {
 
 /* list posts */
 .list-of-posts h2{
-  font-size: 25px;
-}
+  padding: 15px 30px;
+  text-align: left;
+  padding-bottom: 14px;
+  font-weight: bolder;
+ }
 
 .list-of-posts h3 {
-  padding: 1px 30px;
+  padding: 1px 35px;
   line-height: 10px;
   font-size: 15px;
   color: #2d183d;
@@ -66,7 +69,7 @@ h6 {
 }
 
 .list-of-posts p {
-  padding: 1px 30px 32px;
+  padding: 1px 35px 35px;
   line-height: 10px;
   font-size: 15px;
   color: #2d183d;
@@ -89,7 +92,27 @@ h6 {
 
 .blog-post-content p {
   position:relative;
-  padding: 1px 30px;
+  padding: 1px 35px;
+  font-size: 15px;
+  line-height: 20px;
+  color: #2d183d;
+  font-weight: 200;
+  text-align: justify;
+}
+
+.highlight {
+  position:relative;
+  padding: 1px 35px;
+  font-size: 15px;
+  line-height: 20px;
+  color: #2d183d;
+  font-weight: 200;
+  text-align: justify;
+}
+
+.highlighter-rouge {
+  position:relative;
+  padding: 1px 35px;
   font-size: 15px;
   line-height: 20px;
   color: #2d183d;
@@ -149,6 +172,7 @@ h6 {
   height:auto;
   padding: 0px 80px;
   color: #2d183d;
+  font-size: 15px;
 }
 
 .reading-list ol {
@@ -156,6 +180,7 @@ h6 {
   height:auto;
   padding: 0px 80px;
   color: #2d183d;
+  font-size: 15px;
 }
 
 .reading-list li {
@@ -167,9 +192,10 @@ h6 {
 }
 
 .reading-list p {
-    height:auto;
-    max-width:90%;
-    padding: 0px 70px;
-    display: block;
-    font-size: 15px;
+  height:auto;
+  max-width:90%;
+  padding: 0px 70px;
+  margin-left: 5px
+  display: block;
+  font-size: 15px;
 }
