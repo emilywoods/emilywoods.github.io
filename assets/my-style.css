@@ -63,7 +63,6 @@ h6 {
   padding: 1px 35px;
   line-height: 10px;
   font-size: 15px;
-  color: #2d183d;
   font-weight: 100;
   text-align: left;
 }
@@ -72,7 +71,6 @@ h6 {
   padding: 1px 35px 35px;
   line-height: 10px;
   font-size: 15px;
-  color: #2d183d;
   font-weight: 100;
   text-align: left;
 }
@@ -87,7 +85,6 @@ h6 {
 .blog-post-title h2{
   line-height: 20px;
   font-size: 30px;
-  color: #2d183d;
 }
 
 .blog-post-content p {
@@ -95,7 +92,6 @@ h6 {
   padding: 1px 35px;
   font-size: 15px;
   line-height: 20px;
-  color: #2d183d;
   font-weight: 200;
   text-align: justify;
 }
@@ -105,7 +101,6 @@ h6 {
   padding: 1px 35px;
   font-size: 15px;
   line-height: 20px;
-  color: #2d183d;
   font-weight: 200;
   text-align: justify;
 }
@@ -115,7 +110,6 @@ h6 {
   padding: 1px 35px;
   font-size: 15px;
   line-height: 20px;
-  color: #2d183d;
   font-weight: 200;
   text-align: justify;
 }
@@ -171,7 +165,6 @@ h6 {
   text-align: left;
   height:auto;
   padding: 0px 80px;
-  color: #2d183d;
   font-size: 15px;
 }
 
@@ -179,7 +172,6 @@ h6 {
   text-align: left;
   height:auto;
   padding: 0px 80px;
-  color: #2d183d;
   font-size: 15px;
 }
 
@@ -188,7 +180,6 @@ h6 {
   height:auto;
   max-width:90%;
   font-size: 15px;
-  color: #2d183d;
 }
 
 .reading-list p {
