@@ -135,25 +135,22 @@ covered by one, and in the remaining time fleshed these topics out a bit.
 Possible aspects which could be covered by a company sustainability template are:
 
 A. Travel     
- 
-    - Distinguish between necessary and required travel
-    - Supporting alternatives to travel e.g. video calls, remote conferences
-    - Supporting more environmentally-friendly option when possible, e.g. travel by train
-    instead of flight, when travel time is less than X hours.
-    - Including carbon offsetting in costs of travel
+
+- Distinguish between necessary and required travel
+- Supporting alternatives to travel e.g. video calls, remote conferences
+- Supporting more environmentally-friendly option when possible, e.g. travel by train instead of flight, when travel time is less than X hours.
+- Including carbon offsetting in costs of travel
 
 B. Merchandise/Swag      
 
-    - Materials of production
-    - Lifespan of merchandise
+- Materials of production
+- Lifespan of merchandise
 
 C. Energy consumption 
      
 D. Selection of vendors   
      
-    - Transparency on environmental factors and emissions e.g. some cloud providers give
-    information regarding which of there regions are powered by green energy, enabling 
-    users to chose green regions to host their infrastructure.
+- Transparency on environmental factors and emissions e.g. some cloud providers give information regarding which of there regions are powered by green energy, enabling users to chose green regions to host their infrastructure.
  
 E. Food/coffee supplies        
 
