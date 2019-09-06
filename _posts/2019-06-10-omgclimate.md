@@ -117,7 +117,6 @@ towards addressing climate-specific issues.
 is a community which collects and shares computer science papers, and meetups are run all
 over the world for this. Understanding and sharing environmental research would be a way
 to inform both ourselves and others.
-
 <br><br>
 
 ---
@@ -135,28 +134,35 @@ covered by one, and in the remaining time fleshed these topics out a bit.
 
 Possible aspects which could be covered by a company sustainability template are:
 
-- Travel
+A. Travel     
+ 
     - Distinguish between necessary and required travel
     - Supporting alternatives to travel e.g. video calls, remote conferences
     - Supporting more environmentally-friendly option when possible, e.g. travel by train
     instead of flight, when travel time is less than X hours.
     - Including carbon offsetting in costs of travel
-- Merchandise/Swag
+
+B. Merchandise/Swag      
+
     - Materials of production
     - Lifespan of merchandise
-- Energy consumption
-- Selection of vendors
+
+C. Energy consumption 
+     
+D. Selection of vendors   
+     
     - Transparency on environmental factors and emissions e.g. some cloud providers give
     information regarding which of there regions are powered by green energy, enabling 
-    users to chose green regions to host their infrastructure. 
-- Food/coffee supplies
+    users to chose green regions to host their infrastructure.
+ 
+E. Food/coffee supplies        
+
 
 Additionally it was also highlighted that individuals can leverage their own power to highlight
 the importance of sustainability, even through actions such as asking vendors or at a 
 job interview: "what is your sustainability policy?". By raising the question, you're 
 highlighting it as a meaningful issue for you. Maybe receiving that question once won't 
 trigger a company to take it seriously, but if they hear it enough times, maybe it will. 
-
 <br><br>
 
 ---
@@ -180,6 +186,9 @@ however is “mitigate”. Damage has already occurred or is going to occur and 
 these tools you can alleviate it but not undo it altogether. Particularly for travel, 
 it’s worth considering this beforehand, and checking if there are more environmentally-friendly
 alternatives.
+<br><br>
+
+---
 
 ## Related Links
 
