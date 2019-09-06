@@ -1,5 +1,5 @@
 ---
-layout: other
+layout: post
 title: How did I end up here?
 category: general
 ---

@@ -1,5 +1,5 @@
 ---
-layout: other
+layout: post
 title: OMGClimate&#58 The Unconference Combining Tech and the Climate Crisis
 category: technology, climate
 ---

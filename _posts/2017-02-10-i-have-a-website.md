@@ -1,5 +1,5 @@
 ---
-layout: other
+layout: post
 title: I have a website!
 category: general
 ---

@@ -1,5 +1,5 @@
 ---
-layout: other
+layout: post
 title: Emerald&#58 A Ruby Language With Lisp Syntax
 category: compiler design
 ---
