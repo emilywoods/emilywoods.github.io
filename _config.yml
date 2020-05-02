@@ -1,3 +1,5 @@
+title: Emily Woods
+
 baseurl: ""
 url: ""
 
@@ -16,12 +18,12 @@ future: true
 highlighter: rouge
 
 social:
-  - icon: assets/images/button/email.png
+  - icon: envelope
     title: email
     url: mailto:hello@emilywoods.me
-  - icon: assets/images/button/github.png
+  - icon: github
     title: github
     url: https://github.com/emilywoods
-  - icon: assets/images/button/insta.png
-    title: instagram
-    url: https://www.instagram.com/sometimes_milo/
+  - icon: twitter
+    title: twitter
+    url: https://www.twitter.com/sometimes_milo/

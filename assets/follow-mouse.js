@@ -3,12 +3,11 @@ var i;
 function setup() {
   createCanvas(windowWidth,windowHeight);
   i = 0;
-  background('rgba(0,100,0,0.25)');
+  background('#fff0f5');
 }
 
 function element(n) {
-  fill('rgba(0,255,3,0.25)')
-
+  fill('#cfd4db')
   ellipse(10, 0, random(100), random(10));
 }
 
@@ -22,6 +21,6 @@ function mouseMoved() {
 
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
-  background('rgba(0,100,0,0.25)');
+  background('#fff0f5');
 }
 

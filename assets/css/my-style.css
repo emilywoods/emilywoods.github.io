@@ -17,15 +17,10 @@ h6 {
 .alt-font {font-family: 'Quicksand', sans-serif !important;}
 
 /* navbar */
-.navbar-default {
-  background-color:teal;
-  background-image: none;
-  background-repeat: no-repeat;
- }
 
 .navbar-default {
-  background-color: #383838;
-  border-color: #e7e7e7;
+  background-image: url("../images/background/ice_background.png");
+  background-size: cover;
 }
 
 .navbar-fixed-top {
@@ -34,7 +29,7 @@ h6 {
 }
 
 .navbar-default .navbar-nav li a {
-    color: #D3D3D3;
+    color: lavenderblush;
 }
 
 /* title */
