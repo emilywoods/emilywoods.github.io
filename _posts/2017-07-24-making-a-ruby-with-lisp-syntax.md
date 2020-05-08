@@ -27,7 +27,7 @@ In a nutshell, a compiler is a program that converts code written in one program
 **Compiling a Lisp**
 
 Lisps can look intimidating on first glance, but a Lisp was chosen because they typically possess a very simple, uniform syntax. Lisps usually have limited data structures, consisting two basic data types: atoms and lists.
-{% highlight common_lisp %}
+{% highlight lisp %}
 (defun add
     (x y)
     (+ x y))
@@ -57,7 +57,7 @@ The compilation process can be broken down into five steps:
 1\. Read source code from a file
 
   For this program, an input file is specified in the command line. Its contents are read as a string. This is an example input Emerald function:
-  {% highlight common_lisp %}
+  {% highlight lisp %}
   (defun add
       (x y)
       (+ x y)){% endhighlight %}
@@ -71,7 +71,7 @@ The compilation process can be broken down into five steps:
 
 
   Or, in other words:
-  {% highlight common_lisp %}
+  {% highlight lisp %}
   list
     atom: defun
     atom: add
