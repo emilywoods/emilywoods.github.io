@@ -27,3 +27,6 @@ social:
   - icon: twitter
     title: twitter
     url: https://www.twitter.com/sometimes_milo/
+
+gems:
+  - jekyll-feed
