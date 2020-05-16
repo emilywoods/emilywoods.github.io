@@ -1,0 +1,20 @@
+- title: Spirals
+  img: spirals.png
+  href: "/js/spirals"
+  description: "Evolving spirals in p5.js"
+- title: Soporific patterns
+  img: soporific_patterns.png
+  href: "/js/soporific-patterns"
+  description: "Repetitive patterns in p5.js"
+- title: More dreamy patterns
+  img: soporific_patterns2.png
+  href: "/js/soporific-patterns-no2"
+  description: "Repetitive patterns in p5.js"
+- title: Aimless Wanderer
+  img: random_walker.png
+  href: "/js/random-walker"
+  description: "A randwom walkter in p5.js"
+- title: Dizzy Stars
+  img: dizzy_stars.png
+  href: "/js/dizzy-stars"
+  description: "Stars in motion with p5.js"

@@ -1,0 +1,21 @@
+---
+layout: other
+---
+
+<div class="title">
+  <h1> Projects and Experiments </h1>
+</div>
+<hr>
+
+<div class="project-preview-row">
+{% for project in site.data.projects %}
+<div class="project-preview">
+  <a href="{{ project.href }}">
+    <img src="/assets/images/projects/{{ project.img }}" alt={{ project.title }}>
+  </a>
+  <h3>{{ project.title }}</h3>
+  <p>{{ project.description }}</p>
+</div>
+{% endfor %}
+</div>
+

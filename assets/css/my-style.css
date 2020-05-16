@@ -137,28 +137,42 @@ h6 {
 }
 
 /* list projects*/
-.project-preview {
-  margin: auto;
-  padding-bottom: 20px;
+
+.project-preview h3 {
+  padding: 10px 0px 0px;
+  line-height: unset;
+  margin: 0 0 10px;
 }
 
-.project-preview p {
-  padding: 10px 30px;
-  line-height: 10px;
-  font-size: 15px;
-  font-weight: 100;
-  text-align: center;
+@media screen and (max-width: 600px) {
+  .project-preview h3 {
+    font-size: 15px;
+  }
+
+  .project-preview p {
+    font-size: 12px;
+  }
+}
+
+.project-preview {
+  width: 33.3%;
+  padding: 5px;
+  float: left;
 }
 
 .project-preview img {
-  max-width:70%;
-  height:auto;
-  position: relative;
-  display:block;
-  margin:0 auto;
-  border: 0;
-  width:100% !important;
-  height:100% !important;
+  width: 100%;
+}
+
+.project-preview-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project-preview-row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 /* reading list */
