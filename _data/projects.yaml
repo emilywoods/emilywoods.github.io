@@ -1,3 +1,19 @@
+- title: Nature of Corrode
+  img: rainbow.png
+  href: "https://github.com/emilywoods/nature-of-corrode"
+  description: "Some creative coding sketches in Rust"
+- title: Emerald
+  img: lisp_input_binary_tree.png
+  href: "https://github.com/emilywoods/emerald"
+  description: "A Ruby Language with Lisp Syntax"
+- title: A dhéanamh
+  img: a-dheanamh.png
+  href: "https://github.com/emilywoods/a-dheanamh"
+  description: "Keeping organised"
+- title: Here I am
+  img: here-i-am.png
+  href: "https://github.com/emilywoods/here-i-am"
+  description: "Some stuff about me, in the command line"
 - title: Spirals
   img: spirals.png
   href: "/js/spirals"
