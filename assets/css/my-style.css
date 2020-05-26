@@ -18,18 +18,42 @@ h6 {
 
 /* navbar */
 
-.navbar-default {
-  background-image: url("../images/background/ice_background.png");
-  background-size: cover;
+.navbar {
+  margin-bottom: 0px;
+  min-height: auto;
 }
 
-.navbar-fixed-top {
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lavenderblush;
+  position: fixed;
   top: 0;
-  border-width: 0 0 0px;
+  width: 100%;
 }
 
-.navbar-default .navbar-nav li a {
-    color: lavenderblush;
+.navbar li {
+  float: right;
+}
+
+.navbar li a {
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar li a:hover:not(.active) {
+  background-color: #111;
+  color: lavenderblush;
+}
+
+.navbar .active {
+  background-color: #4CAF50;
+  
 }
 
 /* title */
