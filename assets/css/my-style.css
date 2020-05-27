@@ -10,11 +10,11 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 350;
 }
 
-.alt-font {font-family: 'Quicksand', sans-serif !important;}
+.alt-font {font-family: 'Helvetica', sans-serif;}
 
 /* navbar */
 
@@ -28,19 +28,19 @@ h6 {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: lavenderblush;
+  background-color: #28282A;
   position: fixed;
   top: 0;
   width: 100%;
 }
 
 .navbar li {
-  float: right;
+  float: left;
 }
 
 .navbar li a {
   display: block;
-  color: #333;
+  color: lavenderblush;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -52,7 +52,7 @@ h6 {
 }
 
 .navbar .active {
-  background-color: #4CAF50;
+  background-color: rgb(117, 128, 117);
   
 }
 
@@ -75,7 +75,6 @@ h6 {
   padding: 15px 30px;
   text-align: left;
   padding-bottom: 14px;
-  font-weight: bolder;
  }
 
 .list-of-posts h3 {
@@ -96,7 +95,7 @@ h6 {
 
 /* post */
 .blog-post-title {
-  padding: 15px 20px;
+  padding: 40px 20px;
   text-align: center;
   padding-bottom: 14px;
 }
@@ -205,7 +204,6 @@ h6 {
   padding: 15px 30px;
   text-align: left;
   padding-bottom: 14px;
-  font-weight: bolder;
 }
 
 .reading-list ul {

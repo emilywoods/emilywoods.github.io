@@ -11,12 +11,9 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 350;
 }
-
-.alt-font {font-family: 'Quicksand', sans-serif !important;}
-
 
 iframe {
     display:block;
@@ -38,9 +35,10 @@ iframe {
     position: relative;
     padding-top: 10%;
     padding-bottom: 10%;
-    color: lavenderblush; 
+    color: lavenderblush;
     padding-bottom: 20%;
     text-align: center;
+    background-color: #28282A;
 }
 
 .intro-message > h1 {
@@ -60,7 +58,7 @@ iframe {
     text-align: center;
     text-decoration: none;
     font-size: 30px;
-    background: lavenderblush;
+    background: rgb(233, 226, 228);
     color: palevioletred;
     border-radius: 5%;
     margin-left: 15px;
@@ -77,6 +75,7 @@ iframe {
     padding-bottom: 10px;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
+    background-color: rgb(250, 237, 242);
 }
 
 .section-heading {
