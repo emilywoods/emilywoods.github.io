@@ -238,3 +238,13 @@ h1 {font-weight: 350;}
   display: block;
   font-size: 15px;
 }
+
+/* footer */
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: lavenderblush;
+  color: #28282A;
+  font-size: 10px;
+}
