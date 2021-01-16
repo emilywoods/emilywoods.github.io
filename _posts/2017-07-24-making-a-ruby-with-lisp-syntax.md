@@ -44,11 +44,11 @@ There was no particular reason for selecting Ruby as both the target language an
 #### Compilation Process
 The compilation process can be broken down into five steps:
 
-    1. Read source code from a file
-    2. Carry out lexical analysis and parsing
-    3. Convert the abstract syntax tree (AST) into Ruby code
-    4. Optimise
-    5. Write to a file and evaluate
+  1. Read source code from a file
+  2. Carry out lexical analysis and parsing
+  3. Convert the abstract syntax tree (AST) into Ruby code
+  4. Optimise
+  5. Write to a file and evaluate
 
 <br><br>
 {% include image.html url="/assets/images/compiler_process.png" description="Compilation Overview" %}

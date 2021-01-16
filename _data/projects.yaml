@@ -29,7 +29,7 @@
 - title: Aimless Wanderer
   img: random_walker.png
   href: "/js/random-walker"
-  description: "A randwom walkter in p5.js"
+  description: "A random walker in p5.js"
 - title: Dizzy Stars
   img: dizzy_stars.png
   href: "/js/dizzy-stars"
